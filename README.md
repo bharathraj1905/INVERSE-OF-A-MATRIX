@@ -16,13 +16,17 @@ printing the inverse of the matrix
 
 ## Program:
 ```py
+# INVERSE-OF-A-MATRIX
+# Developed by: b.bharathraj
+# Reference no: 22008848
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 b=np.linalg.inv(a)
 print(b)
 ```
 ## Output:
-![output](/output.png)
+![inverse of a matrix](https://user-images.githubusercontent.com/121490575/214905428-87d13c23-21aa-468e-b1fa-eae847412617.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
